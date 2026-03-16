@@ -23,7 +23,7 @@ application {
 }
 
 javafx {
-    modules = ["javafx.base", "javafx.graphics", "javafx.controls"]
+    modules = ["javafx.base", "javafx.graphics", "javafx.controls","javafx.swing"]
 }
 
 jlink {

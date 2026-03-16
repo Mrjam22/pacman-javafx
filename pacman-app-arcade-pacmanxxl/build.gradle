@@ -18,5 +18,5 @@ dependencies {
 }
 
 javafx {
-    modules = ["javafx.base", "javafx.graphics", "javafx.controls", "javafx.media"]
+    modules = ["javafx.base", "javafx.graphics", "javafx.controls", "javafx.media","javafx.swing"]
 }
